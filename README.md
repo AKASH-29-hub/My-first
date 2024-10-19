@@ -1,4 +1,4 @@
 # My-first
 This is my first Git Repository.
 <br>
-Author - Akash Swain
+Author - Akash Swain (Student)
